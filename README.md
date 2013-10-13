@@ -79,3 +79,7 @@ complaints.
   - Number of dropped calls (hang-ups)
   - Amount of time that each phone line was idle
   - Amount of time that each customer service representative was idle
+
+### Class Descriptions
+
+- [CLASSDESC.md](http://github.com/bjcrawford/CallCenterSim/blob/master/CLASSDESC.md)

@@ -20,7 +20,7 @@ complaints.
 
 - The system shall begin execution of the simulation immediately on activation of the simulation program.
 - The system shall simulate closing of the call center after a configurable amount of simulation time has passed.
--- After the call center’s simulated close, the system shall stop generating incoming call traffic.
+  - After the call center’s simulated close, the system shall stop generating incoming call traffic.
 - The system shall continue to process calls received prior to the closing of the call center.
 - The system shall terminate when all calls have been processed.
 

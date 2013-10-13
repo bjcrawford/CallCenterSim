@@ -1,6 +1,11 @@
 CallCenterSim
 =============
 
+## Background
+
+This was an individual final project assigned in a data structures and algorithms course I took in 
+the fall of 2012. I implemented the project using Java.
+
 ## Description
 
 The Call Center Simulation project is a Java or C++ program that will simulate the operations of a

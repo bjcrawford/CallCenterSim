@@ -28,7 +28,7 @@ complaints.
 
 5. The system shall simulate incoming phone lines used by customers to request assistance.
 6. The system shall allow the number of incoming phone lines to be set at the beginning of the simulation.
-6.1. Once established, the number of lines shall remain constant for the duration of the simulation.
+  6.1. Once established, the number of lines shall remain constant for the duration of the simulation.
 7. The system shall allow at most one simulated phone call to be active on a simulated line at any given time. A line may be inactive when there are no calls available on the line at that time.
 
 ### Call Processing Requirements

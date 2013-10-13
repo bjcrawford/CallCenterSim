@@ -83,3 +83,7 @@ complaints.
 ### Class Descriptions
 
 - [CLASSDESC.md](http://github.com/bjcrawford/CallCenterSim/blob/master/CLASSDESC.md)
+
+### UML Class Diagram
+
+- [CallCenterSimUML.png](http://github.com/bjcrawford/CallCenterSim/blob/master/CallCenterSimUML.png)
